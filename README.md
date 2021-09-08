@@ -11,14 +11,14 @@ Hi! I am Newton Toto, a dude based in [Nairobi](https://duckduckgo.com/?q=nairob
 ---
 
 <div style="text-align: center; padding: 10px; text-decoration: underline">
-    <style scoped> img{ width: 5%; height: auto; } </style>
     <h3 style="font-style: italic;">Stuff I like</h3>
-    <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/javascript.svg"/>
-    <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/rust.svg"/>
-    <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/tux.svg"/>
-    <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/wasm.svg"/>
-    <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/vscode.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/javascript.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/rust.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/tux.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/wasm.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/vscode.svg"/>
 </div>
+
 
 
 ---
@@ -26,19 +26,19 @@ Hi! I am Newton Toto, a dude based in [Nairobi](https://duckduckgo.com/?q=nairob
 <div style="text-align: center; padding: 10px; text-decoration: underline;">
     <h3 style="font-style: bold;">Socials</h3>
     <a href="https://www.twitch.tv/sokorototo">
-        <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/twitch.svg"/>
+        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/twitch.svg"/>
     </a>
     <a href="https://www.youtube.com/channel/UCWWL0sC8_7DdM59TI0BED_Q">
-        <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/youtube.svg"/>
+        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/youtube.svg"/>
     </a>
     <a href="https://www.reddit.com/user/newtcanmakeit">
-        <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/reddit.svg"/>
+        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/reddit.svg"/>
     </a>
     <a href="https://twitter.com/newton_toto">
-        <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/twitter.svg"/>
+        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/twitter.svg"/>
     </a>
     <a href="https://www.linkedin.com/in/nyachieng-a-toto-b844391b9/">
-        <img src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/linkedin.svg"/>
+        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/linkedin.svg"/>
     </a>
 </div>
 
