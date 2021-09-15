@@ -12,11 +12,7 @@ Hi! I am Newton Toto, a dude based in [Nairobi](https://duckduckgo.com/?q=nairob
 
 <div style="text-align: center; padding: 10px; text-decoration: underline">
     <h3 style="font-style: italic;">Stuff I like</h3>
-    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/javascript.svg"/>
-    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/rust.svg"/>
-    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/tux.svg"/>
-    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/wasm.svg"/>
-    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/vscode.svg"/>
+    <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/banner.png"/>
 </div>
 
 
