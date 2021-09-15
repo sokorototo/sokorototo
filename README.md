@@ -26,7 +26,7 @@ Hi! I am Newton Toto, a dude based in [Nairobi](https://duckduckgo.com/?q=nairob
         <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/twitch.svg"/>
     </a>
     <a href="https://www.youtube.com/channel/UCWWL0sC8_7DdM59TI0BED_Q">
-        <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/youtube.svg"/>
+        <img style="width: 10%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/youtube.svg"/>
     </a>
     <a href="https://www.reddit.com/user/newtcanmakeit">
         <img style="width: 5%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/reddit.svg"/>
