@@ -12,7 +12,7 @@ Hi! I am Newton Toto, a dude based in [Nairobi](https://duckduckgo.com/?q=nairob
 
 <div style="text-align: center; padding: 10px; text-decoration: underline">
     <h3 style="font-style: italic;">Stuff I like</h3>
-    <img style="width: 75%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/banner.png"/>
+    <img style="width: 70%; height: auto;" src="https://raw.githubusercontent.com/sokorototo/sokorototo/main/logos/banner.png"/>
 </div>
 
 
