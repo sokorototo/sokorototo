@@ -1,6 +1,6 @@
 <div style="text-align: center; padding: 10px;">
     <h3 style="font-style: bold;">Hello and welkom 🥷🏿.</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=sokorototo&show_icons=true&theme=radical&hide_title=true&disable_animations=true" style="zoom: 150%; width: 70%"/>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokorototo&layout=compact&theme=dark" style="zoom: 150%; width: 70%"/>    
 </div>
 
 
