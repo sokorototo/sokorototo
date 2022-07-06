@@ -1,7 +1,5 @@
-<div style="text-align: center; padding: 10px;">
-    <h3 style="font-style: bold;">Hello and welkom 🥷🏿.</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokorototo&layout=compact&theme=dark" style="zoom: 150%; width: 70%"/>    
-</div>
+![](https://raw.githubusercontent.com/sokorototo/readme-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sokorototo/readme-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 
