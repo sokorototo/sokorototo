@@ -9,6 +9,6 @@ Hi! I am Newton Toto, based in [Nairobi](https://duckduckgo.com/?q=nairobi&t=hx&
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,js,wasm,sqlite,vscode,linux,windows,raspberrypi,workers,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=rust,c,js,wasm,sqlite,vscode,windows,linux,raspberrypi,workers,&perline=5" />
   </a>
 </p>
