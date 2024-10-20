@@ -13,4 +13,4 @@ Hi! I am Newton Toto, based in [Nairobi](https://duckduckgo.com/?q=nairobi&t=hx&
   </a>
 </p>
 
-<b>(balls)</b>
+<b align="center">(balls)</b>
