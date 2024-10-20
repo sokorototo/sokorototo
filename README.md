@@ -12,3 +12,5 @@ Hi! I am Newton Toto, based in [Nairobi](https://duckduckgo.com/?q=nairobi&t=hx&
     <img src="https://skillicons.dev/icons?i=rust,c,js,wasm,sqlite,vscode,windows,linux,raspberrypi,workers,&perline=5" />
   </a>
 </p>
+
+<b>(balls)</b>
