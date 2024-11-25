@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://raw.githubusercontent.com/sokorototo/readme-stats/master/generated/overview.svg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokorototo&layout=compact" height="205"/>
+    <img src="https://github.com/sokorototo/readme-stats/blob/master/generated/languages.svg" height="205"/>
   </a>
 </p>
 
