@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sokorototo&show=prs_merged&show_icons=true&hide=prs">
+    <img src="https://github-readme-stats.vercel.app/api?username=sokorototo&show=prs_merged&show_icons=true&hide=prs&hide_title=true&card_width=100px">
     <img src="https://github.com/sokorototo/readme-stats/blob/master/generated/languages.svg" height="205"/>
   </a>
 </p>
