@@ -5,4 +5,4 @@
 
 ---
 
-Hi! I am Newton Toto, from Nairobi. I pick up new stuff too often. Likes memes, cats, [economics](https://youtu.be/j8PxqgliIno), history and computers. I'm  bad at art, and an FGC fanatic. I guess...
+Hi! I am Newton Toto, from Nairobi. I pick up new stuff too often. Likes memes, cats and computers. I'm  bad at art, and an FGC fanatic. I guess I'm one in a krillion
