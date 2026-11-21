@@ -1,8 +1,1 @@
-<div align="center" style="display: flex; justify-content: center; align-items: centre">
-    <img src="https://raw.githubusercontent.com/sokorototo/readme-stats/master/generated/overview.svg">
-    <img src="https://github.com/sokorototo/readme-stats/blob/master/generated/languages.svg" height="205"/>
-</div>
-
----
-
-Hi! I am Newton Toto, from Nairobi. I pick up new stuff too often. Likes memes, cats and computers. I'm  bad at art, and an FGC fanatic. We don't do AI here
+Hi! I am Newton Toto, from Nairobi. I pick up new stuff too often. Likes memes, cats and computers. I'm  bad at art, and an FGC fanatic. I only use AI for research and analysis, not code generation. Any mistakes are my own.
