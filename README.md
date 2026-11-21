@@ -1,1 +1,3 @@
 Hi! I am Newton Toto, from Nairobi. I pick up new stuff too often. Likes memes, cats and computers. I'm  bad at art, and an FGC fanatic. I only use AI for research and analysis, not code generation. Any mistakes are my own.
+
+🦀
