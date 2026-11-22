@@ -1,0 +1,17 @@
+name: Generate Git Bonsai
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 1 * *
+
+jobs:
+  generate-bonsai:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: StevenBtw/gitbonsai@v0.5.2
+        with:
+          output-dir: assets
+          legend: right
