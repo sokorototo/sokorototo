@@ -5,13 +5,23 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0 1 * *
+    - cron: '17 6 * * 1'
 
 jobs:
   generate-bonsai:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v7
       - uses: StevenBtw/gitbonsai@v0.5.2
         with:
           output-dir: assets
           legend: right
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # The snapshot too: the next run then fetches only recent months.
+          git add "${{ steps.bonsai.outputs.light }}" "${{ steps.bonsai.outputs.dark }}" \
+            "${{ steps.bonsai.outputs.snapshot }}"
+          git diff --cached --quiet || git commit -m "Grow bonsai"
+          git push
