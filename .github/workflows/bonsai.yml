@@ -16,15 +16,10 @@ jobs:
         with:
           output-dir: assets
           legend: right
-      - name: Commit if it changed
-        env:
-          FILES: >-
-            ${{ steps.bonsai.outputs.light }}
-            ${{ steps.bonsai.outputs.dark }}
-            ${{ steps.bonsai.outputs.snapshot }}
+      - name: Commit Bonsai Assets (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add $FILES   # unquoted on purpose; breaks if paths contain spaces
+          git add "${{ steps.bonsai.outputs.light }}" "${{ steps.bonsai.outputs.dark }}" "${{ steps.bonsai.outputs.snapshot }}"
           git diff --cached --quiet || git commit -m "Grow bonsai"
           git pull --rebase && git push
